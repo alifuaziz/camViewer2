@@ -1,0 +1,1 @@
+from ui.view_finder_tab import viewfinder_tab
